@@ -1,5 +1,8 @@
-# Seguridad de Datos
+# Seguridad de Datos 💻
 
-## Christian De Jesus Aguayo Anaya
+## Christian De Jesús Aguayo Anaya
+### Evaluación
 
-Repositorio creado para la materia de Seguridad de Datos
+- Proyecto: 40%
+- Tareas 30%
+- Participacion 30%
