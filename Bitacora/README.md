@@ -22,4 +22,7 @@ Cada punto tiene diferente importancia dentro de esta triada. De esta forma, pod
 
 |  Confidencialidad  |    Integridad    |    Disponibilidad    |
 |:------------------:|:----------------:|:--------------------:|
-| Row 1              |  **Bold**        |        Cell 3        |
+| Que la información |  **Bold**        |        Cell 3        |
+| no se revele a     |                  |                      |
+| quien no este      |                  |                      |
+| autorizado         |                  |                      |
