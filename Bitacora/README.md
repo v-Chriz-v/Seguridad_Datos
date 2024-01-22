@@ -21,5 +21,5 @@ Se trata del acronimo de *Confidencialidad*, *Integridad* y *Disponibilidad*, si
 Cada punto tiene diferente importancia dentro de esta triada. De esta forma, podemos definir cada punto como:
 
 |  Confidencialidad  |    Integridad    |    Disponibilidad    |
-|:-_----------------:|:----------------:|:--------------------:|
+|:------------------:|:----------------:|:--------------------:|
 | Row 1              |  **Bold**        |        Cell 3        |
