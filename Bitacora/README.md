@@ -17,3 +17,12 @@
 **CIA Triad**
 
 Se trata del acronimo de *Confidencialidad*, *Integridad* y *Disponibilidad*, siendo estos 3 los pilares de la seguridad de la información.
+
+Cada punto tiene diferente importancia dentro de esta triada. De esta forma, podemos definir cada punto como:
+
+|  Confidencialidad  |    Integridad    |    Disponibilidad    |
+|:-_----------------:|:----------------:|:--------------------:|
+| Row 1         | **Bold**        | Cell 3        |
+| Row 2         | *Italic*        | Cell 6        |
+| Row 3         | ~~Strike~~      | Cell 9        |
+| Row 3         | [Link](dot.com) | Cell 9        |
