@@ -21,5 +21,7 @@ Se trata del acronimo de *Confidencialidad*, *Integridad* y *Disponibilidad*, si
 Cada punto tiene diferente importancia dentro de esta triada. De esta forma, podemos definir cada punto como:
  
  - **Confidencialidad**:
+   Que no se revele información a quien no esta autorizado. Se busca garantizar que la información sea accedidad solamente    por las personas a quien se les otorga el permiso.
  - **Integridad**:
- - ** Disponibilidad**:
+   
+ - **Disponibilidad**:
