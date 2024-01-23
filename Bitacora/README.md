@@ -25,8 +25,7 @@ Cada punto tiene diferente importancia dentro de esta triada. De esta forma, pod
    Que no se revele información a quien no esta autorizado. Se busca garantizar que la información sea accedidad solamente    por las personas a quien se les otorga el permiso.
    
  - **Integridad**:
-   Que los datos no sean alterados. Consiste en que la información no sea modificada en cualquiera de sus 3 estados   
-(*almacenamiento*, *proceso* o *transito*).
+   Que los datos no sean alterados. Consiste en que la información no sea modificada en cualquiera de sus 3 estados (*almacenamiento*, *proceso* o *transito*).
    
  - **Disponibilidad**:
    Que la información siempre esté accesible para las personas autorizadas. Se busca que la información tenga un acceso 
