@@ -14,7 +14,7 @@
 ## 
 ## Tarea 995 - Conceptos Básicos de Seguridad
 
-|**CIA Triad**|
+|**CIA Triad** #00b48a|
 |:-----------:|
 
 Se trata del acronimo de *Confidencialidad*, *Integridad* y *Disponibilidad*, siendo estos 3 los pilares de la seguridad de la información.
