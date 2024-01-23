@@ -51,10 +51,31 @@ La autenticación multifactor (MFA) es un proceso de registro en varios pasos qu
 |**Vulnerabilidad**|
 |:----------------:|
 
+Una vulnerabilidad es una debilidad existente en un sistema que puede ser utilizada por una persona malintencionada para comprometer su seguridad. Las vulnerabilidades pueden ser de varios tipos, pueden ser de tipo hardware, software, procedimentales o humanas y pueden ser explotadas o utilizadas por intrusos o atacantes.
 
 |**Amenaza**|
 |:---------:|
 
+Se refiere a la explotación de fallos que se utilizan para afectar la operatividad de un sistema, con la intención de sacar algún provecho.
+
+Las amenazas informáticas pueden clasificarse, según su origen y a grandes rasgos, en dos categorías:
+
+  - Amenazas informáticas externas
+  - Amenazas informáticas internas
+
+Las amenazas informáticas pueden tener un impacto significativo en las operaciones comerciales de una organización.
+
+Pueden conducir a la pérdida de datos, al tiempo de inactividad de los sistemas críticos, a pérdidas financieras, etc.
 
 |**Impacto**|
 |:---------:|
+
+Un impacto en la seguridad de la información es cuando existe una amenaza a la seguridad informática y esta logra atravesar las medidas de defensa, bien sea malware, virus, etc. cualquier tipo de ataque informático que pueda poner en peligro cualquier tipo de información, datos, etc.
+
+Pueden ser de tipo:
+
+   - Financiero
+   - Operacional
+   - Legal o regulatorio
+   - Reputación
+   - Estratégico
