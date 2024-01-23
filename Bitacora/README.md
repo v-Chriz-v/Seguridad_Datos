@@ -4,7 +4,8 @@
 
  - Primer Parcial
     - Tarea 995
-    -
+    - Tarea 994
+    - 
  - Segundo Parcial
     - Tarea ...
     -
