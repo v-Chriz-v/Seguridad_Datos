@@ -38,7 +38,7 @@ El triángulo FSU, un acrónimo de Funcionalidad-Seguridad-Usabilidad, tres cosa
 
 Dependiendo de a quién o qué desarrollaremos, uno de estos tres aspectos podría explotarse más que otro, el punto negro que está en medio del triángulo define que tan seguro, funcional y usable es nuestro producto. Dicho punto puede movilizarse a una esquina del triángulo según sea la necesidad, pero mientras más se acerca a una esquina evidentemente se aleja de las otras.
 
-![App Screenshot] 
+![App Screenshot]
 (https://culturatics.files.wordpress.com/2015/07/wpid-fsu-use3.jpg?w=809)
 
 |**Riesgo**|
