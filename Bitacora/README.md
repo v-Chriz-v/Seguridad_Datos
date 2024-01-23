@@ -30,3 +30,29 @@ Cada punto tiene diferente importancia dentro de esta triada. De esta forma, pod
  - **Disponibilidad**:
    Que la información siempre esté accesible para las personas autorizadas. Se busca que la información tenga un acceso 
    activo en todo momento segun sea necesario.
+
+|**Usability Triangle**|
+|:--------------------:|
+
+El triángulo FSU, un acrónimo de Funcionalidad-Seguridad-Usabilidad, tres cosas fundamentales a la hora de desarrollar productos de software.
+
+Dependiendo de a quién o qué desarrollaremos, uno de estos tres aspectos podría explotarse más que otro, el punto negro que está en medio del triángulo define que tan seguro, funcional y usable es nuestro producto. Dicho punto puede movilizarse a una esquina del triángulo según sea la necesidad, pero mientras más se acerca a una esquina evidentemente se aleja de las otras.
+
+|**Riesgo**|
+|:--------:|
+
+
+|**MFA**|
+|:-----:|
+
+
+|**Vulnerabilidad**|
+|:----------------:|
+
+
+|**Amenaza**|
+|:---------:|
+
+
+|**Impacto**|
+|:---------:|
