@@ -1,6 +1,6 @@
-# Bitacora - Seguridad de Datos
+# Bitácora - Seguridad de Datos
 
-## Indice
+## Índice
 
  - Primer Parcial
     - Tarea 995
@@ -30,7 +30,7 @@ Cada punto tiene diferente importancia dentro de esta triada. De esta forma, pod
    
  - **Disponibilidad**:
    Que la información siempre esté accesible para las personas autorizadas. Se busca que la información tenga un acceso 
-   activo en todo momento segun sea necesario.
+   activo en todo momento según sea necesario.
 
 |**Usability Triangle**|
 |:--------------------:|
@@ -86,3 +86,37 @@ Pueden ser de tipo:
 
 ![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/20240123_091105.jpg)
 
+##
+## Apuntes Martes 23/01/2024
+
+|**Hack Value:**|
+|:--------------|
+Se trata del valor que tiene un objetivo para un hacker.
+|**Target of Evaluation:**|
+Es el equipo o sitio que requiere de intervención de expertos en seguridad con el fin de evitar o cubrir vulnerabilidades.
+|**Exploit:**|
+Hace referencia al ataque que se realiza a alguna vulnerabilidad dentro de un sitio.
+|**Zero-Day Attack:**|
+Son los ataques que se llevan en software que aun no se ha lanzado, por lo que los desarrolladores deben trabajar en eso incluso antes de lanzar el producto.
+|**Vulnerability:**|
+Es toda area de riesgo que tiene un equipo o sitio, ya sean brechas en la estructura o areas de aprovechamiento para los hackers.
+|**Daisy Chaining:**|
+Se refiere a la acción de encubrir los pasos que se llevaron a cabo luego de una infiltración dentro de un equipo o sitio, a fin de evitar que se descubra al responsable.
+|**Authenticity (Autenticidad):**| 
+Es la comprobación que se lleva a cabo a fin de verificar que quien esta accediendo es quien dice ser. 
+|**Non Repudiation:**|
+El no repudio garantiza que ninguna parte pueda negar que envió o recibió un mensaje mediante cifrado y/o firmas digitales o aprobó cierta información. Tampoco puede negar la autenticidad de su firma en un documento.
+
+|**Attack** =|Goals + Motives + Objectives|
+|:-----------|:---------------------------|   
+
+**Tipos de Amenazas:**
+
+* Naturales
+* Seguridad Física
+* Humanas (Especial enfasís en *Insiders* y *Social Engineering*)
+* De Red 
+* Host
+* De Aplicación  
+
+##
