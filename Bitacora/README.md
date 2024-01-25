@@ -84,5 +84,5 @@ Pueden ser de tipo:
 ## 
 ## Tarea 994 - Instalar ParrotSec
 
-![App Screenshot](https://drive.google.com/file/d/1_gmYTZ3dIsMiHjiSYbMmxQABOUyKlQ0g/view?usp=sharing)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/20240123_091105.jpg)
 
