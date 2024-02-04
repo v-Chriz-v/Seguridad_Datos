@@ -79,7 +79,7 @@ Pueden ser de tipo:
 ## 
 ## Tarea 994 - Instalar ParrotSec
 
-![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/20240123_091105.jpg)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Parrot.jpg)
 
 ##
 ## Apuntes Martes 23/01/2024
