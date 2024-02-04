@@ -6,12 +6,7 @@
     - Tarea 995
     - Tarea 994
     - 
- - Segundo Parcial
-    - Tarea ...
-    -
- - Tercer Parcial
-    - Tarea ...
-    -
+    
 ## 
 ## Tarea 995 - Conceptos Básicos de Seguridad
 
