@@ -3,11 +3,19 @@
 ## Índice
 
  - Primer Parcial
+    - Tarea 997
     - Tarea 995
     - Tarea 994
-    - 
+    - Tarea 985
     
 ## 
+
+## Tarea 997 - GitHub Education
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/GitHubEdu.png)
+
+##
+
 ## Tarea 995 - Conceptos Básicos de Seguridad
 
 |**CIA Triad**|
@@ -79,7 +87,7 @@ Pueden ser de tipo:
 ## 
 ## Tarea 994 - Instalar ParrotSec
 
-![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Parrot.jpg)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/Parrot.jpg)
 
 ##
 ## Apuntes Martes 23/01/2024
@@ -113,5 +121,29 @@ El no repudio garantiza que ninguna parte pueda negar que envió o recibió un m
 * De Red 
 * Host
 * De Aplicación  
+
+##
+
+## Tarea 993 - AtTiny85
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/AtTiny.jpg)
+
+##
+
+## Tarea 992 - ESP32
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/ESP32.jpg)
+
+##
+
+## Tarea 985 - SQL Injection
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/SQL%20Injection/SQL_Injection_1.png)
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/SQL%20Injection/SQL_Injection_2.png)
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/SQL%20Injection/SQL_Injection_3.png)
+
+Los dos Labs sin resolver necesitaban la versión PRO de Burp Suite 
 
 ##
