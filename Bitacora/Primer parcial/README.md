@@ -6,6 +6,8 @@
     - Tarea 997
     - Tarea 995
     - Tarea 994
+    - Tarea 993
+    - Tarea 992
     - Tarea 985
     
 ## 
@@ -126,13 +128,13 @@ El no repudio garantiza que ninguna parte pueda negar que envió o recibió un m
 
 ## Tarea 993 - AtTiny85
 
-![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/AtTiny.jpg)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/AtTiny85.jpeg)
 
 ##
 
 ## Tarea 992 - ESP32
 
-![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/ESP32.jpg)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/ESP32.jpeg)
 
 ##
 
