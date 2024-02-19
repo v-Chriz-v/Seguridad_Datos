@@ -136,6 +136,12 @@ El no repudio garantiza que ninguna parte pueda negar que envió o recibió un m
 
 ##
 
+## Tarea 989 - Instalar JuiceShop
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/JuiceShop.png)
+
+##
+
 ## Tarea 985 - SQL Injection
 
 ![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/SQL%20Injection/SQL_Injection_1.png)
