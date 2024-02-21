@@ -8,6 +8,7 @@
     - Tarea 994
     - Tarea 993
     - Tarea 992
+    - Tarea 989
     - Tarea 985
     
 ## 
@@ -126,10 +127,27 @@ El no repudio garantiza que ninguna parte pueda negar que envió o recibió un m
 
 ##
 
-## Tarea 993 - AtTiny85
+## Tarea 993 - AtTiny85 y PoC
 
 ![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Primer%20parcial/Images/AtTiny85.jpeg)
 
+```bash
+    #include "DigiKeyboard.h"
+
+    void setup() 
+    {
+        //empty
+    }
+
+    void loop() 
+    {
+        DigiKeyboard.sendKeyStroke(0);
+        DigiKeyboard.delay(100);
+        DigiKeyboard.sendKeyStroke(KEY_W, MOD_CONTROL_LEFT);
+        DigiKeyboard.delay(100);
+        DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
+    }
+```
 ##
 
 ## Tarea 992 - ESP32
@@ -154,4 +172,51 @@ El no repudio garantiza que ninguna parte pueda negar que envió o recibió un m
 
 Los dos Labs sin resolver necesitaban la versión PRO de Burp Suite 
 
+##
+
+## Apuntes 15/02/2024
+
+|**Alta Disponibilidad:**|
+|:-----------------------|
+Es la capacidad que tiene un sistema de TI para ser accesible y confiable casi todo el tiempo, lo cual elimina o disminuye el tiempo de inactividad.
+|**Active Directory:**|
+Se trata del término que utiliza Microsoft para referirse a su implementación de servicio de directorio en una red distribuida de computadoras. Utiliza distintos protocolos, principalmente LDAP, DNS, ​ DHCP y Kerberos.
+|**Open LDAP**|
+**OpenLDAP** es una implementación gratuita y de recurso abierto del protocolo LDAP. 
+**LDAP** (Lightweight Directory Access Protocol) es un protocolo estándar para usuarios, dispositivos y clientes de comunicación con un servidor de directorio. El protocolo LDAP facilita al usuario la autenticación y autorización para los recursos de las tecnologías de la información, los cuales pueden incluir servidores, aplicaciones, redes, servidores de archivo y más.
+|**Entropía de contraseña**|
+Predice cómo de difícil será descifrar una contraseña dada, a través de ataques de fuerza bruta, ataques de diccionario u otros métodos comunes.
+
+Pentesting (Whitebox, Blackbox, Graybox), (Internas, Externas)
+* Reconocimiento (Footprinting)
+* Escaneo
+* Ganar acceso
+* Mantener el acceso
+* Cubrir Huellas
+
+##
+
+## Apuntes 20/02/2024
+
+**Puertos definidos:** 
+* 80 http
+* 22 ssh
+* 21 ftp
+* 23 telnet
+* 25 smtp
+* 53 dns 
+* 3306 MySql
+* 8080 Tomcat
+
+Puertos máximos = **65536** (2^16)
+
+|**Puertos efímeros:**|
+|:--------------------|
+Van desde el 49152 hasta el 65535 y son unos puertos temporales de usar y tirar que el sistema operativo asigna a las aplicaciones cuando los necesitan. Una vez que la conexión ha terminado ese puerto queda libre y puede ser reutilizado nuevamente por cualquier otra aplicación.
+
+**¿Qué pasa cuando los puertos efímeros se agotan?** 
+* Cuando esto sucede, los nuevos intentos de establecer conexiones pueden fallar o pueden encontrarse con demoras significativas, lo que puede llevar a un rendimiento deficiente de las aplicaciones o servicios que dependen de esas conexiones. Además, puede haber problemas de escalabilidad si hay una gran cantidad de solicitudes simultáneas que necesitan puertos efímeros.
+
+**Nmap** hace un escaneo de puertos a toda una red.
+**Netcat** hace el escaneo a un solo host.
 ##
