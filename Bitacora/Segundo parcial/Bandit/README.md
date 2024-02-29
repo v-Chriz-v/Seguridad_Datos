@@ -1,6 +1,3 @@
-# Bitácora - Seguridad de Datos
+# Bandit - OverTheWire
 
-## Índice
-
- - Segundo Parcial
-    - 
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Segundor%20parcial/Bandit/Level%200.png)
