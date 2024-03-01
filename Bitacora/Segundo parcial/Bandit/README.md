@@ -102,3 +102,6 @@
 
 ## Level 32 - 33
 ![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Segundo%20parcial/Bandit/Level%2033.png)
+
+## Level 33 - 34
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Segundo%20parcial/Bandit/Level%2034.png)
