@@ -10,9 +10,9 @@
 ## Tarea 983 - Hardening de CentOS7
 
 Antes del Hardening:
-![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/HardeningAntes.jepg)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/HardeningAntes.png)
 
 Despues del Hardening:
-![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/HardeningDespues.jepg)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/HardeningDespues.png)
 
 ##
