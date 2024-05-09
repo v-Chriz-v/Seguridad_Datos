@@ -45,18 +45,29 @@ Esta versión contiene una puerta trasera que pasó desapercibida durante meses 
 
 En nuestro caso, hacemos un acceso no autenticado al sistema mediante este puerto. La siguiente línea de código nos sirve para redireccionar el acceso a nuestra red mediante un puerto establecido:
 
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/configip.png)
+
 El script también usa un payload que otorga una conexión mediante netcat que devuelve una consola shell bash en la máquina objetivo.
 
-Mediante el siguiente código se envían las letras “AB”, lo cual activa una puerta trasera en Metasploitable 
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/payloadsestablecidos.png)
+
+Mediante el siguiente código se envían las letras “AB”, lo cual activa una puerta trasera en Metasploitable
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/cadenaAB.png)
 
 Si la conexión es exitosa, obtenemos el acceso al sistema de manera remota
 
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/conexionrecibida.png)
+
 Al ejecutar el script con las ip y puertos ya establecidos, obtenemos el acceso al sistema. La prueba a continuación muestra como en la conexión remota (izquierda) se listan los directorios existentes en el sistema de Metasploitable (derecha).
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/entrandoalavm.png)
 
 Para probar los permisos, creamos un directorio llamado “entramos” desde la conexión remota y, posteriormente, listamos los directorios en Metasploitable y logramos observar como el directorio se creó exitosamente.
 
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/exploitfuncionando.png)
 
-
+Codigo obtenido de: https://github.com/Ranger11Danger/UnrealIRCd-3.2.8.1-Backdoor/blob/master/exploit.py
 
 
 ##
