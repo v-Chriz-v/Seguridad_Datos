@@ -1,5 +1,4 @@
 #! /usr/bin/env bash
-# Description: Make Centos 8.X CIS compliant
 
 RESET=$'\e[0m'
 BOLD=$'\e[1m'
