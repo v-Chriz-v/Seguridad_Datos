@@ -9,19 +9,6 @@ GREEN=$'\e[92m'
 PURPLE=$'\e[95m'
 BLUE=$'\e[94m'
 
-function banner() {
-  echo -e "${BOLD}${BLUE}  _____ _____ _____            _____            _              _____ 
-  /  __ \\_   _/  ___|          /  __ \\          | |            |  _  |
-  | /  \\/ | | \\ \`--.   ______  | /  \\/ ___ _ __ | |_ ___  ___   \\ V / 
-  | |     | |  \`--. \\ |______| | |    / _ \\ '_ \\| __/ _ \\/ __|  / _ \\ 
-  | \\__/\\_| |_/\\__/ /          | \\__/\\  __/ | | | || (_) \\__ \\ | |_| |
-   \\____/\\___/\\____/            \\____/\\___|_| |_|\\__\\___/|___/ \\_____/${RESET}
-
-                    ${BOLD}Benchmark v1.0.0 ${RESET}\\n\\n"
-
-  return 0
-}
-
 function _help() {
   echo -ne "cis-benchmark-srv-lvl1-centos8.sh - CIS Benchmark v1.0.0 tool for Centos 8.x Server Level 1\\n\\n"
   echo -ne "${BOLD}Usage${RESET}\\n"
@@ -77,7 +64,6 @@ function console() {
 }
 
 function benchmark() {
-  banner
 
   echo -e "${GREEN}1.1.1.1 Ensure mounting of cramfs filesystems is disabled (Scored)${RESET}"
   console "${BOLD}[AUDIT]${RESET}" 1
