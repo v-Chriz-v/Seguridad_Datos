@@ -72,8 +72,16 @@ Codigo obtenido de: https://github.com/Ranger11Danger/UnrealIRCd-3.2.8.1-Backdoo
 
 ##
 
-## Tarea 980 - Hardening en Benchmark
+## Tarea 980 - Hardening en Benchmark - CentOS 8
 
+Las siguientes capturas muestran los porcentajes de seguridad de CentOS 8 luego de aplicarle un hardening.
 
+Antes del Hardening:
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/CentOS8.png)
+
+Aplicamos el [script para fortalecer el sistema (Hardening)](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/CentOS8.sh)
+
+Despues del Hardening:
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/CentOS8-hardening.png)
 
 ##
