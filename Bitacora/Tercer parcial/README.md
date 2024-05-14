@@ -22,8 +22,18 @@ Despues del Hardening:
 
 ## Tarea 982 - UTM
 
+Primero necesitamos saber la IP de la maquina que contiene MS2, por lo que usamos el comando "ip address" para determinar la IP.
 
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/IpMS2.png)
 
+Posterior a la instalación del UTM de Endian, aplicamos las reglas de seguridad para cada puerto dentro de MS2. Observamos los puertos dentro de MS2.
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/puertos.png)
+
+Sabiendo cada puerto y protocolo que maneja Metasploitable, podemos configurar las reglas para cada servicio. 
+
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/Pt1_Reglas.png)
+![App Screenshot](https://github.com/v-Chriz-v/Seguridad_Datos/blob/main/Bitacora/Tercer%20parcial/Images/Pt2_Reglas.png)
 ##
 
 ## Tarea 981 - PoC en MS2
